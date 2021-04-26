@@ -1,1 +1,2 @@
-# k-tune-music-player
+# React JS 
+Music Player
